@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="71" viewBox="0 0 372 71">
+<rect width="372" height="71" fill="#0a0d10"/>
+<rect x="4" y="8" width="364" height="54" rx="9" fill="#12161a" stroke="#343a40"/>
+<rect x="9" y="15" width="47" height="42" rx="5" fill="#161a1f" stroke="#ed4248" stroke-width="4"/>
+<g fill="none" stroke="#b9bec4" stroke-width="2">
+<rect x="26" y="29" width="9" height="11" rx="1"/>
+<rect x="23" y="26" width="9" height="11" rx="1"/>
+</g>
+<line x1="66" y1="14" x2="66" y2="56" stroke="#242a30"/>
+<rect x="74" y="21" width="52" height="34" rx="6" fill="#23282e"/>
+<text x="91" y="43" font-family="Arial,sans-serif" font-size="16" fill="#f2f3f4">1</text>
+<path d="M115 35l4 4 4-4" fill="none" stroke="#858c93" stroke-width="1.5"/>
+<rect x="130" y="21" width="103" height="34" rx="8" fill="#168de3"/>
+<path d="M151 30l10 8-10 8z" fill="none" stroke="#fff" stroke-width="2"/>
+<text x="169" y="43" font-family="Arial,sans-serif" font-size="16" fill="#fff">Run</text>
+<path d="M220 35l4 4 4-4" fill="none" stroke="#d6eafa" stroke-width="1.5"/>
+<rect x="241" y="21" width="32" height="34" rx="5" fill="#733438"/>
+<path d="M252 32l10 11M262 32l-10 11" stroke="#c57276" stroke-width="2"/>
+<rect x="281" y="21" width="78" height="34" rx="7" fill="#101419" stroke="#2e343a"/>
+<text x="293" y="43" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">0 active</text>
+</svg>
